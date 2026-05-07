@@ -4,8 +4,8 @@
 
 ✨ Highlights
 
-[贡献点 1]: We formalize cross-modal alignment reuse as an implicit geometric projection within gradient subspaces, exposing the fundamental flaws of heuristic visual-similarity-based sharing in continual learning.
+[1]: We formalize cross-modal alignment reuse as an implicit geometric projection within gradient subspaces, exposing the fundamental flaws of heuristic visual-similarity-based sharing in continual learning.
 
-[贡献点 2]: We propose iGSP, a two-stage framework that leverages early router convergence to automate subspace identification, redundancy truncation, and task-agnostic deployment, providing an end-to-end solution for efficient VLM adaptation.
+[2]: We propose iGSP, a two-stage framework that leverages early router convergence to automate subspace identification, redundancy truncation, and task-agnostic deployment, providing an end-to-end solution for efficient VLM adaptation.
 
-[贡献点 3]: On the MTIL benchmark, iGSP achieves state-of-the-art accuracy while dramatically improving training efficiency, reducing the average number of trainable parameters by 42.7\% compared to current SOTA methods.
+[3]: On the MTIL benchmark, iGSP achieves state-of-the-art accuracy while dramatically improving training efficiency, reducing the average number of trainable parameters by 42.7\% compared to current SOTA methods.
